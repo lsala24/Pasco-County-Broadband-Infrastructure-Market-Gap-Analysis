@@ -1,0 +1,2 @@
+# Pasco-County-Broadband-Infrastructure-Market-Gap-Analysis
+This web map examines the spatial distribution of gopher tortoise burrows and habitat suitability. By integrating field-collected GPS data with environmental variables like soil drainage and land cover, the project provides a data-driven framework for species conservation and land management. Developed for ecological monitoring and mitigation.
